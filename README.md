@@ -35,9 +35,9 @@ The project includes **real wiring** and photos.
 ## 🖼️ Project Images
 
   
-![Transmitter Wiring](media/wiring1.jpg)
+![Transmitter Wiring](media/wiring1.png)
  
-![Receiver Wiring](media/wiring2.jpg)
+![Receiver Wiring](media/wiring2.png)
 
 ---
 
@@ -50,8 +50,8 @@ lora-sensor-transmission/
 │   └── recepteur.ino
 │
 │── media/
-│   ├── wiring1.jpg
-│   ├── wiring2.jpg
+│   ├── wiring1.png
+│   ├── wiring2.png
 │
 │
 │── docs/
