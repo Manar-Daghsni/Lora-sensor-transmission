@@ -65,12 +65,12 @@ lora-sensor-transmission/
 
 ## 🛠️ Technologies Used
 
--Arduino Uno 
--LoRa SX1276 / 868 MHz modules
--Potentiometer
--Arduino IDE
--C/C++
--Breadboard & jumper wires
+- Arduino Uno 
+- LoRa SX1276 / 868 MHz modules
+- Potentiometer
+- Arduino IDE
+- C/C++
+- Breadboard & jumper wires
 
 ---
 
